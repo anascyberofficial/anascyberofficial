@@ -1,6 +1,30 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Anas Cyber Official</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anascyberoffical&label=Profile%20views&color=0e75b6&style=flat" alt="anascyberoffical" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anascyberoffical" alt="anascyberoffical" /></a> </p>
+
+- 🔭 I’m currently working on **Zero Click Attacks**
+
+- 🌱 I’m currently learning **Ethical Hacking , Cyber Security**
+
+- 👯 I’m looking to collaborate on **Building Remote Acces Trojans**
+
+- 🤝 I’m looking for help with **Zero Click Attacks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/anascyberofficial](https://github.com/anascyberofficial)
+
+- 📫 How to reach me **mranascyberexpert@gmail.com**
+
+- ⚡ Fun fact **I Creat Video on Youtube**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/anascybertech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anascybertech" height="30" width="40" /></a>
+<a href="https://instagram.com/anascybertech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anascybertech" height="30" width="40" /></a>
+</p>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
